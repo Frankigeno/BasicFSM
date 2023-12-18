@@ -18,7 +18,7 @@ pip install basicfsm
 
 Basic FSM structure
 ```python
-from basicfsm import FSMConstructor # import the library
+from BasicFSM import FSMConstructor # import the library
 from time import sleep
 
 fsm = FSMConstructor()
